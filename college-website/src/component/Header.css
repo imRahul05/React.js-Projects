@@ -1,0 +1,8 @@
+.header {
+    background-color: transparent;
+    transition: 0.4s;
+  }
+  
+  .header.active {
+    background-color: #f8f9fa;
+  }
