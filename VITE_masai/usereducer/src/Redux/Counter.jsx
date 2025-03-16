@@ -1,7 +1,4 @@
-const INCREMENT='INCREMENT'
-const DECREMENT = 'DECREMENT'
-
-
+import {INCREMENT,DECREMENT} from '../Components/actionTypes'
 function increment(){
     return {type:INCREMENT}
 }
